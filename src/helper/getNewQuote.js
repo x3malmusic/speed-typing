@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const URL = "http://api.quotable.io/random";
+const URL = "https://api.quotable.io/random";
 
 export default async () => {
   try {
